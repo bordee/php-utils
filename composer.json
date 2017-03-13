@@ -1,0 +1,14 @@
+{
+  "description": "Useful, general purpose PHP classes",
+  "name": "bordee/php-utils",
+  "type": "library",
+  "license": "",
+  "require": {
+    "php": ">=5.2.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Utils\\": "src/Utils"
+    }
+  }
+}
